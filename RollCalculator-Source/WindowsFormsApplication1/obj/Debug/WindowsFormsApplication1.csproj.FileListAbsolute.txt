@@ -52,3 +52,6 @@ F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Ro
 F:\VS\My Projects\RollCalculator-Source\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
 F:\VS\My Projects\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
 F:\VS\My Projects\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
+C:\Users\Daniel\Documents\GitHub\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
+C:\Users\Daniel\Documents\GitHub\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
+C:\Users\Daniel\Documents\GitHub\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
