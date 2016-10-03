@@ -1,0 +1,54 @@
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.manifest
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.application
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.exe.manifest
+c:\users\daniel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.application
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.manifest
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.application
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.pdb
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.Properties.Resources.resources
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.exe.manifest
+F:\VS\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.application
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.manifest
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.application
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.Properties.Resources.resources
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.exe.manifest
+F:\VS\My Projects\woejhfioj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.application
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.manifest
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.application
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.exe
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.Properties.Resources.resources
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.exe.manifest
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.application
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
+F:\VS\My Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RollCalculator.pdb
+F:\VS\My Projects\RollCalculator-Source\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
+F:\VS\My Projects\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
+F:\VS\My Projects\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
