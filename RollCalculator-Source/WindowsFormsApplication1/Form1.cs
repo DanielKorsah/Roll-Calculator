@@ -96,7 +96,7 @@ namespace WindowsFormsApplication1
         void calculateRolls(ref int index, ref int numRolls)
         {
             
-            //Random rnd = new Random();
+            Random rnd = new Random();
             if (index == 0) //roll d2s
             {
                 while (numRolls > 0)
