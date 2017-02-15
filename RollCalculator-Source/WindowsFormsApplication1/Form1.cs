@@ -162,11 +162,11 @@ namespace WindowsFormsApplication1
 
             }
 
-            if (index == 6) //roll d12s
+            if (index == 6) //roll d20s
             {
                 while (numRolls > 0)
                 {
-                    int d20Roll = rnd.Next(1, 13);
+                    int d20Roll = rnd.Next(1, 21);
                     outputString.Append("d20: " + d20Roll + "\r\n");
                     numRolls--;
                 }
