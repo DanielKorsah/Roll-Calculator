@@ -55,3 +55,11 @@ F:\VS\My Projects\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollC
 F:\VS\My Projects\RollCalculator-Source\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
 F:\VS\My Projects\RollCalculator-Source\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
 F:\VS\My Projects\RollCalculator-Source\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
+D:\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\bin\Debug\RollCalculator.exe.config
+D:\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.exe
+D:\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.pdb
+D:\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\RollCalculator.Properties.Resources.resources
+D:\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Roll-Calculator\RollCalculator-Source\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
