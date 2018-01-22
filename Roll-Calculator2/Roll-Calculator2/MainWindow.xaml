@@ -5,8 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Roll_Calculator2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
+        Title="Roll Calculator" Height="453" Width="537.8">
+    <Grid Margin="0,0,2,1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" FontSize="22" MaxLength="5"/>
+        <Label Content="D2" HorizontalAlignment="Left" Margin="82,8,0,0" VerticalAlignment="Top" Height="37" Width="60" FontSize="20" ScrollViewer.VerticalScrollBarVisibility="Disabled"/>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" FontSize="22" MaxLength="5"/>
+        <Label Content="D4" HorizontalAlignment="Left" Margin="82,41,0,0" VerticalAlignment="Top" Height="37" Width="60" FontSize="20" ScrollViewer.VerticalScrollBarVisibility="Disabled"/>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" FontSize="22" MaxLength="5"/>
+        <Label Content="D6" HorizontalAlignment="Left" Margin="82,74,0,0" VerticalAlignment="Top" Height="37" Width="60" FontSize="20" ScrollViewer.VerticalScrollBarVisibility="Disabled"/>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" FontSize="22" MaxLength="5"/>
+        <Label Content="D8" HorizontalAlignment="Left" Margin="82,107,0,0" VerticalAlignment="Top" Height="37" Width="60" FontSize="20" ScrollViewer.VerticalScrollBarVisibility="Disabled"/>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" FontSize="22" MaxLength="5"/>
+        <Label Content="D10" HorizontalAlignment="Left" Margin="82,140,0,0" VerticalAlignment="Top" Height="37" Width="60" FontSize="20" ScrollViewer.VerticalScrollBarVisibility="Disabled" RenderTransformOrigin="0.515,0.811"/>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,175,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" FontSize="22" MaxLength="5"/>
+        <Label Content="D12" HorizontalAlignment="Left" Margin="82,173,0,0" VerticalAlignment="Top" Height="37" Width="60" FontSize="20" ScrollViewer.VerticalScrollBarVisibility="Disabled" RenderTransformOrigin="0.515,0.811"/>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,208,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" FontSize="22" MaxLength="5"/>
+        <Label Content="D20" HorizontalAlignment="Left" Margin="82,206,0,0" VerticalAlignment="Top" Height="37" Width="60" FontSize="20" ScrollViewer.VerticalScrollBarVisibility="Disabled" RenderTransformOrigin="0.515,0.811"/>
+        <TextBox HorizontalAlignment="Left" Height="28" Margin="10,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="67" FontSize="22" MaxLength="5"/>
+        <Label Content="D100" HorizontalAlignment="Left" Margin="82,239,0,0" VerticalAlignment="Top" Height="37" Width="60" FontSize="20" ScrollViewer.VerticalScrollBarVisibility="Disabled" RenderTransformOrigin="0.515,0.811"/>
+        <Button x:Name="RollButton" Content="Roll" HorizontalAlignment="Left" Margin="10,281,0,0" VerticalAlignment="Top" Width="132" Height="32" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="375" Margin="229,10,0,0" TextWrapping="Wrap" Text="Outcomes:" VerticalAlignment="Top" Width="270" IsReadOnly="True" FontSize="20"/>
+        <CheckBox x:Name="KeepInputCheck" Content="Keep inputs" HorizontalAlignment="Left" Margin="10,355,0,0" VerticalAlignment="Top" Height="30" Width="114" FontSize="16" IsChecked="True" VerticalContentAlignment="Center"/>
+        <Button Content="Clear All" HorizontalAlignment="Left" Margin="10,318,0,0" VerticalAlignment="Top" Width="132" Height="32" VerticalContentAlignment="Center" FontSize="18"/>
     </Grid>
 </Window>

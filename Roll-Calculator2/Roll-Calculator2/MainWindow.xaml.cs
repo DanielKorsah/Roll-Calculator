@@ -24,5 +24,7 @@ namespace Roll_Calculator2
         {
             InitializeComponent();
         }
+
+        
     }
 }
