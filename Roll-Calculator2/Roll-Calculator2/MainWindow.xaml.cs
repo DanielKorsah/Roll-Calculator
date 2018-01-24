@@ -25,6 +25,9 @@ namespace Roll_Calculator2
             InitializeComponent();
         }
 
-        
+        private void RollButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
